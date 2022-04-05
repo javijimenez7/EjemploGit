@@ -1,1 +1,2 @@
 Primera linea del fichero1
+Segunda linea del fichero1
